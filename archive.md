@@ -1,5 +1,5 @@
 ---
-bg: "tag.jpg"
+bg: "fukusakiover.jpg"
 layout: page
 permalink: /posts/
 title: "Archive"
