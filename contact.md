@@ -1,5 +1,5 @@
 ---
-bg: "sloth.jpg"
+bg: "kobeport.jpg"
 layout: page
 title: "Contact Me"
 crawlertitle: "The Sloth and the Kappa - About"
