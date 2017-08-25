@@ -3,8 +3,8 @@ bg: "fukusakiover.jpg"
 layout: page
 permalink: /posts/
 title: "Archive"
-crawlertitle: "All articles"
-summary: "Posts about jekyll"
+crawlertitle: "The Sloth and the Kappa - Archive"
+summary: "Past posts I've made"
 active: archive
 ---
 
