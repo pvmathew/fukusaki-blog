@@ -17,6 +17,9 @@ layout: default
   <div class="post-content">
 
     {{ content }}
+    {% if site.disqus.shortname %}
+      {% include disqus_comments.html %}
+    {% endif %}
 
     <div class="post-links">
       {% if page.next.url %}
@@ -33,8 +36,6 @@ layout: default
         </a>
       {% endif %}
     </div>
-
-    {% include disqus.html %}
 
   </div>
 
