@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 bg: 'kappalake.jpg'
 title:  "I thought I said not to go here!!!"
 crawlertitle: "I thought I said not to go here!!!"
