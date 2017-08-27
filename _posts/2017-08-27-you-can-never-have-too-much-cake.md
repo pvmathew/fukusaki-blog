@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 bg: 'cakefront2.jpg'
 title:  "You can never have too much cake"
 crawlertitle: "You can never have too much cake"
