@@ -213,10 +213,11 @@ article {
   object,
   video,
   iframe {
+    padding: 1em;
     display: block;
     margin: 0 auto;
     max-width: 100%;
-    height: auto;
+    height: 480px;
   }
 
   &:after {
@@ -232,7 +233,7 @@ article {
     height: auto;
     display: block;
     margin: 1em auto;
-    padding: .2em;
+    padding: 1em;
     background-color: #fff;
   }
 }
