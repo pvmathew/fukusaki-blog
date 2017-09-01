@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-bg: 'cakefront2.jpg'
+bg: 'park.jpg'
 title:  "Faster than Fast"
 crawlertitle: "Faster than Fast"
 summary: "Just ramblings really."
@@ -36,6 +36,7 @@ I'll end this post with the song I decided to pick up and try to learn recently.
 Feel free to give it a listen.
 Cheers!
 
-
+OH.
+I also say Marvel's Defenders. It was ok.
 
 
