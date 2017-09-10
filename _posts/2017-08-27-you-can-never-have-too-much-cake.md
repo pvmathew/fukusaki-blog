@@ -2,8 +2,8 @@
 layout: post
 comments: true
 bg: 'cakefront2.jpg'
-title:  "You can never have too much cake"
-crawlertitle: "You can never have too much cake"
+title:  "You can never have too much cake."
+crawlertitle: "You can never have too much cake."
 summary: "Just ramblings really."
 date:   2017-08-26 20:44:47 +0800
 categories: my-blog
